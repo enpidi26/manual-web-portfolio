@@ -537,7 +537,7 @@ header {
 
   #tentang-saya .wrapper div .deskripsi {
     margin: 20px 0 0 70px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
   }
 
   /* Certifications */
